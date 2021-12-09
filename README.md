@@ -10,7 +10,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lkrayola&theme=nord&no-frame=true" alt="lkrayola" /></a> </p>
 
 
-## 🔭 I’m currently working on [Ancon Ipld Router Sync](https://github.com/Electronic-Signatures-Industries/ancon-ipld-router-sync)
+## 🔭 I’m currently working on:
+- [Ancon Protocol](https://github.com/Electronic-Signatures-Industries/ancon-protocol) 
+- [Ancon Ipld Router Sync](https://github.com/Electronic-Signatures-Industries/ancon-ipld-router-sync)
+- [Ancon Protocol Node](https://github.com/anconprotocol/node) 
 
 
 <h3 align="left">Languages and Tools:</h3>
