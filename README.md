@@ -11,8 +11,6 @@
 
 
 ## 🔭 I’m currently working on:
-- [Ancon Protocol](https://anconprotocol.github.io/docs/) 
-- [Ancon Protocol Node](https://github.com/anconprotocol/node) 
 - ???
 
 
